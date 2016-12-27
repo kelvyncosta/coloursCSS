@@ -1,7 +1,13 @@
 ![alt tag](https://cloud.githubusercontent.com/assets/24737458/21500748/3279a3a0-cc29-11e6-9baf-266ece241d36.png 'ColoursCSS')
+### Current Version : v1.0.1
 
-# ColoursCSS
-### Current Version : 1.0.1
+# Changelog
+
+- v1.0.1
+	* Fix class name
+
+- v1.0.0
+	* Initial Definition
 
 # Whats is?
 
@@ -29,3 +35,5 @@ In addition to changing the background color of an element, with the ```Colours.
 ```html
 	<h2 class="text-red light-2">Your text goes here.<h2>
 ```
+
+## [Color Pallete](http://colourscss.kelvyncosta.com.br/#colorPallete)
