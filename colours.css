@@ -1,13 +1,18 @@
  /*!
- * ColoursCSS v1.0.0 (http://colourscss.kelvyncosta.com.br)
+ * ColoursCSS v1.0.1 (http://colourscss.kelvyncosta.com.br)
  * Copyright 2016 Kelvyn Costa
  *
  * Obrigado por usar | Thanks for using
+ * 
+ * ___Log___
+ * 15/08/2016 - v1.0.0
+ * 20/12/2016 - v1.0.1 - Some errors corrections in classes' names
+ * 
  */
 
 .transparent{
 	background-color: transparent !important; }
-	.text-snow{
+	.text-transparent{
 	color: transparent !important; }
  
 .white{
@@ -1779,4 +1784,3 @@
     background-color: #66083A !important; }
     .text-deeppink.dark-5{
     color: #66083A !important; }
-	
