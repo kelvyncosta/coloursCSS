@@ -1,4 +1,9 @@
-# ColoursCSS - Whats is?
+![alt tag](https://cloud.githubusercontent.com/assets/24737458/21500748/3279a3a0-cc29-11e6-9baf-266ece241d36.png 'ColoursCSS')
+
+# ColoursCSS
+### Current Version : 1.0.1
+
+# Whats is?
 
 ```Colours.css``` is a mini CSS framework geared specifically towards color. With a wide color palette, colours.css makes it easy to develop your front end with easy-to-read, ready-made classes.
 
