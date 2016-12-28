@@ -2,7 +2,7 @@
 ### Current Version : v1.1.0
 
 # Changelog
-- v1.1.0 - New colors sets added
+- ### v1.1.0 - New colors sets added
 	* Burlywood set
 	* Emerald set
 	* Fandango set
@@ -16,9 +16,9 @@
 	* Maize set
 	* Indianred set
 
-- v1.0.1 - Fix class name
+- #### v1.0.1 - Fix class name
 
-- v1.0.0 - Initial Definition
+- #### v1.0.0 - Initial Definition
 
 # Whats is?
 
