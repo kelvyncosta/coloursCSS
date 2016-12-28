@@ -1,5 +1,5 @@
 ![alt tag](https://cloud.githubusercontent.com/assets/24737458/21500748/3279a3a0-cc29-11e6-9baf-266ece241d36.png 'ColoursCSS')
-### Current Version : v1.0.1
+### Current Version : v1.1.0
 
 # Changelog
 - v1.1.0 - New colors sets added
