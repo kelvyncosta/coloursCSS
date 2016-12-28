@@ -2,12 +2,23 @@
 ### Current Version : v1.0.1
 
 # Changelog
+- v1.1.0 - New colors sets added
+	* Burlywood set
+	* Emerald set
+	* Fandango set
+	* Tomato set
+	* Yaleblue set
+	* Jade set
+	* Eminence set
+	* Dainise set
+	* Ebony set
+	* Brazil set
+	* Maize set
+	* Indianred set
 
-- v1.0.1
-	* Fix class name
+- v1.0.1 - Fix class name
 
-- v1.0.0
-	* Initial Definition
+- v1.0.0 - Initial Definition
 
 # Whats is?
 
