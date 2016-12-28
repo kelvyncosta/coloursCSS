@@ -23,6 +23,15 @@ The use of ```ColoursCSS``` is greatly simplified. Just add the ```colours.css``
 </head>
 ```
 
+### or use CDN link
+
+
+```html
+<head>
+	<link type="text/css" rel="stylesheet" href="https://cdn.rawgit.com/kelvyncosta/coloursCSS/master/colours.min.css"/>
+</head>
+```
+
 After adding the file, you can use the colors you want, just add the class corresponding to each color in the elements you want to customize, for example ```class="red light-2"```.
 Here's how simple it is to change the background color of a div:
 
