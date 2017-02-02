@@ -2,7 +2,7 @@
 ### Current Version : v1.2.0
 
 # Changelog
-- #### v1.2.0 - New colors sets added
+### v1.2.0 - New colors sets added
 	* Aluminum set
 	* Sangria set
 	* Placidblue set
