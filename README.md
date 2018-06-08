@@ -66,4 +66,4 @@ In addition to changing the background color of an element, with the ```Colours.
 	<h2 class="text-red light-2">Your text goes here.</h2>
 ```
 
-## [Color Pallete](http://colourscss.kelvyncosta.com.br/)
+
